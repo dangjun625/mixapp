@@ -1,2 +1,2 @@
 # mixapp
-mixapp
+com.mixlinker.compressors
